@@ -1,0 +1,4 @@
+2_Assignment2 --> Record temperaturas Ann Arbor
+
+
+3_Module+2 --> Un monton de cheat sheets para algoritmos de clasificacion y regresion. En general todo lo que empiece por '3'
